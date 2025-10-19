@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../TIL/TIL"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Interpreter_Go"
+	}
+}
